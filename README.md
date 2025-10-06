@@ -4,11 +4,11 @@
 
 <!-- <img align="right" src="https://github.com/thiagodanobrega/thiagodanobrega/blob/main/programmer.gif?raw=true" height="250"/> -->
 
-👩‍💻 I am currently a Mobile Software Engineer at XP Inc, with experience in developing XP Bank Card modules
+👩‍💻 I'm a Mobile Software Engineer specializing in Flutter and Android with Kotlin. I work in the banking services module, contributing to the development and improvement of features that impact the card management experience.
 
-🧠 My skills include mobile development (Android and Flutter) and Web Development skills, covering JavaScript, TypeScript, React, Redux, ContextAPI, MySQL and Node.
+🧠 In the Flutter ecosystem, I have experience with Provider, BLoC, Cubit, GetX, Dio, HTTP, GetIt, as well as data persistence with SQLite and Hive. I've worked on hybrid projects, Method Channels for Flutter-native integration, and BFF to optimize API consumption. In Native Android, I'm proficient in testing with JUnit and Espresso, as well as persistence using Room and SQLite. I also have experience with reactive programming (RxAndroid and LiveData) and dependency injection with Dagger.
 
-📫 Meet me: **thiagons.dev@gmail.com**
+📫 Meet me: **thiagons@live.com**
 
 ## Languages and tools:
 
